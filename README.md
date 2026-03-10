@@ -366,5 +366,3 @@ src/
 * **Time to Market**: El prototipo final quedó listo semanas antes del ciclo de desarrollo estimado.
 * **Developer Satisfaction**: 9.5/10 (Eliminación de tareas repetitivas de UI y CRUD).
 * **Stakeholder Approval**: Un concepto teórico se transformó en un sistema robusto, operable en hardware real y blindado contra fraudes.
-
-```
