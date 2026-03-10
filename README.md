@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Reto Vibe Coding: Dashboard de Asistencias - Resultados Completos
 
 Este documento detalla exhaustivamente el proceso de construcción de **AttendSys**, un sistema de gestión de asistencias por QR en tiempo real. El desarrollo se dividió en 6 fases arquitectónicas utilizando una metodología de *Vibe Coding Iterativo*, aplicando mejoras profesionales sobre los prototipos generados por IA.
